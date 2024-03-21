@@ -1,7 +1,7 @@
 Hi 👋 My name is Cornel
 =======================
 
-A self-taught Frontend Developer.
+I'm a self-taught Frontend developer.
 ---------------------------------
 
 ### Skills
