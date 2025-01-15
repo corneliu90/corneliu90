@@ -1,7 +1,7 @@
 Hi 👋 My name is Cornel
 =======================
 
-I'm a self-taught Frontend developer and Manual QA specialist.
+I'm a self-taught Frontend developer and Manual QA Engineer.
 ---------------------------------
 
 ### Skills
